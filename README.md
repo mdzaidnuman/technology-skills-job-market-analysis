@@ -15,7 +15,7 @@ This project analyzes current and emerging technology trends using developer sur
 - Data Visualization
 
 ## Key Insights
-This analysis highlights major technology trends and in-demand skills based on survey data.
+This analysis highlights the popularity of programming languages such as JavaScript, Python, and SQL, along with growing demand for database and data-related skills.
 
 ## How to View
 Access the dashboards and presentation by clicking on the PDF files above.
