@@ -13,3 +13,9 @@ This project analyzes current and emerging technology trends using developer sur
 - Python
 - IBM Cognos Analytics
 - Data Visualization
+
+## Key Insights
+This analysis highlights major technology trends and in-demand skills based on survey data.
+
+## How to View
+Access the dashboards and presentation by clicking on the PDF files above.
